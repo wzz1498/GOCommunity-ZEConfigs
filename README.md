@@ -1,5 +1,5 @@
-## GO Community-ZEConfigs
-5E&GO Community ZombieEscape Configs Settings
+## TOP游廊-ZEConfigs
+TOP游廊 Community ZombieEscape Configs Settings
 ## 使用说明
 | 对应目录 | 说明                                                                       |
 |----------|----------------------------------------------------------------------------|
