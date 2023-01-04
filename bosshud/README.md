@@ -1,4 +1,4 @@
-# 5EPlay-ZEConfigs
+# TOP游廊-ZEConfigs
 Boss HUD Infomations
 ## BOSS分类
 | 分类 | 说明            		|
